@@ -98,4 +98,4 @@ For any questions or further information, please contact the authors at:
 ### References using BistableX
 The following references used **BistableX** to obtain their results. If you want to see your publication listed here, please contact us.
 
-- 
+- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, under review, 2025*
