@@ -71,6 +71,8 @@ If you use **BistableX** in your research, please cite the following publication
   title   = {Asymmetry-enhanced performance in bistable energy harvesters: An experimental study},
   journal = {under review},
   year    = {2025},
+  volume  = {~},
+  pages   = {~},
   doi     = {DOI_here},
 }
 
