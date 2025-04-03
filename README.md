@@ -22,7 +22,7 @@
 
 ### Overview
 **BistableX** was developed to conduct nonlinear analysis on bistable piezoelectric-magneto-elastic energy harvesters. The code functionalities are reported in the following publication:
-- **J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr**, *STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems*, Software Impacts, vol. 10, pp. 100161, 2021. <a href="http://dx.doi.org/10.1016/j.simpa.2021.100161" target="_blank">DOI</a>
+- **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: An experimental study*, under review, 2025. <a href="http://dx.doi.org/xxx" target="_blank">DOI</a>
 
 ### Features
 - **Extensive Experimental Data:** Data from a custom-designed bistable energy harvester, including measurements under symmetric and controlled asymmetric conditions (achieved via magnet rotation and base tilting).
@@ -63,11 +63,11 @@ All experimental procedures and calibration details are documented to ensure rep
 
 ### Citing BistableX
 If you use **BistableX** in your research, please cite the following publication:
-- *J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, 10:100161, 2021 http://dx.doi.org/10.1016/j.simpa.2021.100161*
+- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, under review, 2025*
 
 ```
 @article{NorenbergEtAl2025_BistableX,
-  author  = {J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr},
+  author  = "{J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr}",
   title   = {Asymmetry-enhanced performance in bistable energy harvesters: An experimental study},
   journal = {under review},
   year    = {2025},
@@ -84,7 +84,7 @@ If you use **BistableX** in your research, please cite the following publication
 
 ### Institutional support
 
-<img src="logo/logo_unesp_color.png" width="20%"> &nbsp; &nbsp;  <img src="logo/logo_usp.png" width="10%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%"> 
+<img src="logo/logo_unesp_color.png" width="20%"> &nbsp; &nbsp;  <img src="logo/logo_usp.png" width="10%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%">  &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> 
 
 ### Funding
 
