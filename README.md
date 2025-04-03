@@ -84,7 +84,7 @@ If you use **BistableX** in your research, please cite the following publication
 
 ### Institutional support
 
-<img src="logo/logo_unesp_color.png" width="20%"> &nbsp; &nbsp;  <img src="logo/logo_usp.png" width="18%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%">  &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> 
+<img src="logo/logo_unesp_color.png" width="20%"> &nbsp; &nbsp;  <img src="logo/logo_usp.png" width="18%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="10%">  &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> 
 
 ### Funding
 
