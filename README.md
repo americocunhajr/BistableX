@@ -84,16 +84,17 @@ If you use **BistableX** in your research, please cite the following publication
 
 ### Institutional support
 
-<img src="logo/logo_unesp_color.png" width="20%"> &nbsp; &nbsp;  <img src="logo/logo_usp.png" width="18%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="10%">  &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> 
+<img src="logo/logo_unesp_color.png" width="18%"> &nbsp; &nbsp;  <img src="logo/logo_usp.png" width="18%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="10%">  &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> 
 
 ### Funding
 
-<img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/faperj.png" width="25%"> &nbsp; &nbsp;  <img src="logo/fapesp.png" width="25%">
+<img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/faperj.png" width="22%"> &nbsp; &nbsp;  <img src="logo/fapesp.png" width="22%">
 
 ### Contact
 For any questions or further information, please contact the authors at:
 
 - João Pedro C. V. Norenberg: jpcvalese@gmail.com
+- Paulo S. Varoto: varoto@sc.usp.br
 
 ### References using BistableX
 The following references used **BistableX** to obtain their results. If you want to see your publication listed here, please contact us.
