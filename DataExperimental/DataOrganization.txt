@@ -1,0 +1,49 @@
+
+This repository provides experimental data in two formats: .mat and .csv. 
+The data was acquired using a data acquisition system and post-processed for analysis. This document describes the structure, content, and meaning of each dataset and variable.
+
+Each signal channel corresponds to a specific physical quantity:
+Channel 1 (subscript 1): Acceleration of the base [g]
+Channel 2 (subscript 2): Voltage from the piezoelectric harvester [V]
+Channel 3 (subscript 3): Velocity measured by laser vibrometer [m/s]
+
+
+Data Formats
+1. .mat Files
+These files contain all raw and processed data exported directly from the data acquisition (DAQ) software.
+
+Each variable is a matrix organized as (frequency/time, signal):
+C – Coherence functions:
+C1_2: Coherence between channels 2 and 1
+C1_3: Coherence between channels 3 and 1
+
+H – Frequency Response Functions (FRFs):
+H1_2: FRF from voltage to base acceleration
+H1_3: FRF from velocity to base acceleration
+
+S – Frequency spectra:
+S1, S2, S3: Spectra for channels 1, 2, and 3, respectively
+
+X – Time-domain signals:
+X1, X2, X3: Time series of channels 1, 2, and 3, respectively
+
+
+2. .csv Files
+These are processed files and are organized by folder according to the type of analysis performed.
+
+swept_freq/ Folder
+Contains FRF results from frequency sweep experiments.
+
+single_freq/ Folder
+Contains time-domain responses for single-frequency excitation tests.
+
+poincare_analysis/ Folder
+These files provide data for phase-space (Poincaré section) analysis. All datasets are organized as columns corresponding to state variables.
+
+data_poincare_chaos_asym.csv: (displacement, velocity)
+
+data_poincare_chaos_sym.csv: (displacement, velocity)
+
+data_poincare_monostable_asym.csv: (displacement (left equilibrium), velocity (left equilibrium), displacement (right equilibrium), velocity (right equilibrium))
+
+data_poincare_monostable_sym.csv: (displacement (left equilibrium), velocity (left equilibrium), displacement (right equilibrium), velocity (right equilibrium))
