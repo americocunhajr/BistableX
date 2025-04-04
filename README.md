@@ -25,11 +25,11 @@
 - **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: An experimental study*, under review, 2025. <a href="http://dx.doi.org/xxx" target="_blank">DOI</a>
 
 ### Features
-- **Extensive Experimental Data:** Data from a custom-designed bistable energy harvester, including measurements under symmetric and controlled asymmetric conditions (achieved via magnet rotation and base tilting).
+- **Experimental Data:** Data from a custom-designed bistable energy harvester, including measurements under symmetric and controlled asymmetric conditions (achieved via magnet rotation and base tilting).
 
 - **Dynamic Characterization:** Frequency response functions (FRFs), power output measurements, and state-space reconstructions that reveal both monostable and chaotic behaviors.
 
-- **Detailed Metadata:** Comprehensive documentation of test configurations, excitation parameters, and measurement protocols to ensure reproducibility.
+- **Metadata:** Description of test configurations, excitation parameters, and measurement protocols to ensure reproducibility.
 
 - **Validation and Benchmarking:** Data suitable for validating numerical models and comparing the performance of energy harvesting strategies.
 
@@ -49,11 +49,11 @@ Detailed documentation, including a user manual and example scripts for data ana
 The repository includes extensive documentation that describes the experimental setup, data acquisition protocols, and data structure. Please refer to the docs/ directory for:
 
 - The user manual
-- Example analysis scripts
-- Detailed metadata files
+- Analysis scripts
+- Metadata files
 
 ### Reproducibility
-All experimental procedures and calibration details are documented to ensure reproducibility. The dataset comes with reproducible analysis scripts and a complete description of the measurement methodologies, making it straightforward to replicate the experiments or integrate the data into your own research.
+All experimental procedures and calibration details are documented to ensure reproducibility. The dataset comes with analysis scripts and a description of the measurement methodologies.
 
 ### Authors
 - João Pedro C. V. Norenberg
@@ -73,7 +73,7 @@ If you use **BistableX** in your research, please cite the following publication
   year    = {2025},
   volume  = {~},
   pages   = {~},
-  doi     = {DOI_here},
+  doi     = {~},
 }
 
 ```
