@@ -82,7 +82,7 @@ If you use **BistableX** in your research, please cite the following publication
 
 **BistableX** is released under the Creative Commons BY-NC-ND 4.0 license. See the LICENSE file for details. All new contributions must be made under the Commons BY-NC-ND 4.0 license.
 
-<img src="logo/CC-BY-NC-ND.png" width="10%"> 
+<img src="logo/CC-BY-NC-ND.png" width="20%"> 
 
 ### Institutional support
 
