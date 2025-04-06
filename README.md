@@ -45,11 +45,7 @@ To get started with **BistableX**, follow these steps:
    ```
 
 ### Documentation
-The repository includes extensive documentation that describes the experimental setup, data acquisition protocols, and data structure. Please refer to the docs/ directory for:
-
-- The user manual
-- Analysis scripts
-- Metadata files
+The repository includes extensive documentation that describes the experimental setup, data acquisition protocols, and data structure.
 
 ### Reproducibility
 All experimental procedures and calibration details are documented to ensure reproducibility. The dataset comes with analysis scripts and a description of the measurement methodologies.
