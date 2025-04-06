@@ -43,7 +43,6 @@ To get started with **BistableX**, follow these steps:
    ```bash
    cd BistableX
    ```
-Detailed documentation, including a user manual and example scripts for data analysis (MATLAB), is available in the docs/ folder.
 
 ### Documentation
 The repository includes extensive documentation that describes the experimental setup, data acquisition protocols, and data structure. Please refer to the docs/ directory for:
