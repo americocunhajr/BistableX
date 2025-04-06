@@ -21,7 +21,7 @@
 - [References using BistableX](#references-using-bistablex)
 
 ### Overview
-**BistableX** was developed to conduct nonlinear analysis on bistable piezoelectric-magneto-elastic energy harvesters. The code functionalities are reported in the following publication:
+**BistableX** was developed to conduct nonlinear analysis on bistable piezoelectric-magneto-elastic energy harvesters. The technical details of the experiment are reported in the following publication:
 - **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: An experimental study*, under review, 2025. <a href="http://dx.doi.org/xxx" target="_blank">DOI</a>
 
 ### Features
