@@ -57,7 +57,7 @@ All experimental procedures and calibration details are documented to ensure rep
 - Americo Cunha Jr
 
 ### Citing BistableX
-If you use **BistableX** in your research, please cite the following publication:
+If you use **BistableX** data or results in your research, please cite the following publication:
 - *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, under review, 2025*
 
 ```
