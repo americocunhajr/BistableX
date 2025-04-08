@@ -22,7 +22,7 @@
 
 ### Overview
 **BistableX** was conceived to conduct nonlinear analysis on bistable piezoelectric-magneto-elastic energy harvesters. The technical details of the experiment are reported in the following publication:
-- **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: An experimental study*, under review, 2025. <a href="http://dx.doi.org/xxx" target="_blank">DOI</a>
+- **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: An experimental study*, 2025 (under review). <a href="http://dx.doi.org/xxx" target="_blank">DOI</a>
 
 ### Features
 - **Experimental Data:** Data from a custom-designed bistable energy harvester, including measurements under symmetric and controlled asymmetric conditions (achieved via magnet rotation and base tilting).
@@ -58,7 +58,7 @@ All experimental procedures and calibration details are documented to ensure rep
 
 ### Citing BistableX
 If you use **BistableX** data or results in your research, please cite the following publication:
-- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, under review, 2025*
+- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, 2025 (under review)*
 
 ```
 @article{NorenbergEtAl2025_BistableX,
@@ -96,4 +96,4 @@ For any questions or further information, please contact the authors at:
 ### References using BistableX
 The following references used **BistableX** to obtain their results. If you want to see your publication listed here, please contact us.
 
-- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, under review, 2025*
+- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, 2025 (under review)*
