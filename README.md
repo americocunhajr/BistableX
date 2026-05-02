@@ -1,5 +1,5 @@
 ## Bistable eXploration in Energy Harvesting
-**BistableX: Bistable eXploration in Energy Harvesting** is a comprehensive dataset comprising experimental measurements from a bistable energy harvester tested under both symmetric and asymmetric configurations. The repository includes frequency response data, power output records, state-space trajectories, and Poincaré maps that capture the nonlinear dynamic behavior of the system under varied excitation conditions. This dataset is intended to support research in nonlinear dynamics, energy harvesting, and structural health monitoring, providing a robust benchmark for validating new computational models.
+**BistableX: Bistable eXploration in Energy Harvesting** is a comprehensive dataset comprising experimental measurements from a bistable energy harvester tested under both symmetric and asymmetric configurations. The repository includes frequency response data, power output records, state-space trajectories, and Poincaré maps that capture the system's nonlinear dynamics under varied excitation conditions. This dataset is intended to support research in nonlinear dynamics, energy harvesting, and structural health monitoring, providing a robust benchmark for validating new computational models.
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### Overview
 **BistableX** was conceived to conduct nonlinear analysis on bistable piezoelectric-magneto-elastic energy harvesters. The technical details of the experiment are reported in the following publication:
-- **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: An experimental study*, 2025 (under review). <a href="http://dx.doi.org/xxx" target="_blank">DOI</a>
+- **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis*, 2025 (under review). <a href="http://dx.doi.org/10.1007/s11071-025-11893-8" target="_blank">DOI</a>
 
 ### Features
 - **Experimental Data:** Data from a custom-designed bistable energy harvester, including measurements under symmetric and controlled asymmetric conditions (achieved via magnet rotation and base tilting).
@@ -58,17 +58,17 @@ All experimental procedures and calibration details are documented to ensure rep
 
 ### Citing BistableX
 If you use **BistableX** data or results in your research, please cite the following publication:
-- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, 2025 (under review)*
+- **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis*, 2025 (under review). <a href="http://dx.doi.org/10.1007/s11071-025-11893-8" target="_blank">DOI</a>
 
 ```
 @article{NorenbergEtAl2025_BistableX,
   author  = "{J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr}",
-  title   = {Asymmetry-enhanced performance in bistable energy harvesters: An experimental study},
-  journal = {under review},
-  year    = {2025},
-  volume  = {~},
-  pages   = {~},
-  doi     = {~},
+  title   = {Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis},
+  journal = {Nonlinear Dynamics},
+  year    = {2026},
+  volume  = {115},
+  pages   = {22},
+  doi     = {10.1007/s11071-025-11893-8},
 }
 
 ```
@@ -96,4 +96,4 @@ For any questions or further information, please contact the authors at:
 ### References using BistableX
 The following references used **BistableX** to obtain their results. If you want to see your publication listed here, please contact us.
 
-- *J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr, Asymmetry-enhanced performance in bistable energy harvesters: An experimental study, 2025 (under review)*
+- - **J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis*, 2025 (under review). <a href="http://dx.doi.org/10.1007/s11071-025-11893-8" target="_blank">DOI</a>
