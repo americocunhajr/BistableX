@@ -62,7 +62,7 @@ If you use **BistableX** data or results in your research, please cite the follo
 
 ```
 @article{NorenbergEtAl2025_BistableX,
-  author  = "{J. P. Norenberg and P. S. Varoto and S. da Silva and A. Cunha Jr}",
+  author  = {J. P. Norenberg and P. S. Varoto and S. da Silva and A. {Cunha~Jr}},
   title   = {Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis},
   journal = {Nonlinear Dynamics},
   year    = {2026},
