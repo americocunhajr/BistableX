@@ -61,7 +61,7 @@ If you use **BistableX** data or results in your research, please cite the follo
 - **J. P. Norenberg, P. S. Varoto, S. da Silva, and A. Cunha Jr**, *Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis*, 2025 (under review). <a href="http://dx.doi.org/10.1007/s11071-025-11893-8" target="_blank">DOI</a>
 
 ```
-@article{NorenbergEtAl2025_BistableX,
+@article{NorenbergEtAl2026BistableX,
   author  = {J. P. Norenberg and P. S. Varoto and S. da Silva and A. {Cunha~Jr}},
   title   = {Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis},
   journal = {Nonlinear Dynamics},
