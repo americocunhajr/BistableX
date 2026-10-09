@@ -66,7 +66,8 @@ If you use **BistableX** data or results in your research, please cite the follo
   title   = {Asymmetry-enhanced performance in bistable energy harvesters: Experimental and numerical analysis},
   journal = {Nonlinear Dynamics},
   year    = {2026},
-  volume  = {115},
+  volume  = {114},
+  note    = {Article 22},
   doi     = {10.1007/s11071-025-11893-8},
 }
 
